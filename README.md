@@ -23,11 +23,11 @@ Este proyecto es una aplicación web llamada **Amigo Secreto**, que permite a lo
 
 3. Asegúrate de que el campo de texto no esté vacío para agregar un nombre.  
 4. **Visualiza** la lista de amigos ingresados debajo.  
-   ![Visualizar lista]![image](https://github.com/user-attachments/assets/d07900dd-48a2-4b4c-b855-af6bbe1bac8d)
+   ![Visualizar lista]![image](https://github.com/user-attachments/assets/47858430-c53d-4b8a-8472-18db478cc618)
 
 
 5. **Haz clic en "Sortear Amigo"** para seleccionar aleatoriamente a tu amigo secreto y ver el resultado en la pantalla.  
-   ![Sorteo aleatorio]![image](https://github.com/user-attachments/assets/47858430-c53d-4b8a-8472-18db478cc618)
+   ![Sorteo aleatorio]![image](https://github.com/user-attachments/assets/d07900dd-48a2-4b4c-b855-af6bbe1bac8d)
 
 
 
